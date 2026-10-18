@@ -1,0 +1,5 @@
+name: agent-services
+version: "1.0.0"
+description: Homework 4 agent services. Offers a Cloud Cost Analyst service, hires another agent to write unit tests, verifies them in a sandbox, and uses the accepted suite. Same safety core as Homework 3.
+requires_env:
+  - CANVAS_TOKEN
